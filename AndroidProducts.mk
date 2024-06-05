@@ -8,7 +8,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/droidx_X00TD.mk
 
 COMMON_LUNCH_CHOICES := \
-    droidx_X00TD-ap1a-userdebug \
-    droidx_X00TD-ap1a-user \
-    droidx_X00TD-ap1a-eng \
+    droidx_X00TD-userdebug \
+    droidx_X00TD-user \
+    droidx_X00TD-eng \
 
